@@ -109,6 +109,3 @@ int main() {
 ```
 ### Why would you do this?
 Why not?
-# cstd
-# cstd
-# cstd
